@@ -54,6 +54,7 @@
   color: #cccccc;
   padding: 10px 20px;
   transition: 0.3s;
+  
 }
 
 
@@ -75,11 +76,12 @@
   }
   .footer-contato {
     gap: 20px;
+    
   }
   .footer-contato li {
     font-size: 1.5rem;
-   
   }
+    
   .contato {
     margin-top: 0px;
     gap: 20px;

@@ -5,19 +5,24 @@
   justify-content: space-between;
   align-items: center;
   padding: 40px 10px;
-  
-  
+  border-bottom: 1px solid #c7c7c7;
+ 
+}
+
+.header img {
+  padding-bottom: 12px;
 }
 
 .header-menu {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
-  justify-content: center;
+  
 }
 
 .header-menu a {
   display: block;
+  align-items: center;
   font-size: 1.125rem;
   line-height: 1.3;
   padding: 10px 20px;
